@@ -3,7 +3,13 @@
   "TITUL_CLEAR_NAME": "§6Очистить текующий титул",
   "TITULS_GUI_NAME": "§0Категория: %s",
   "TITUL_SELECT": "§fУ вас и так применен титул.",
-    "TITUL_CLEAR": "§fВы успешно очистили титул.",
+  "TITUL_CLEAR": "§fВы успешно очистили титул.",
+  "TITUL_DENY_GUI_ITEM_NAME": "Титул: %s",
+  "TITUL_DENY_GUI_ITEM_LORE": [
+    " §fВам §cне доступен§f данный предмет",
+    " §fцена: %s",
+    ""
+  ]
   "TITUL_CLEAR_LORE": [
     "§f",
     "§fНажмите на эту кнопку, чтобы очистить титул.",
