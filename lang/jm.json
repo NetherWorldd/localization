@@ -3,8 +3,6 @@
   "JOIN_MESSAGE_SELECTED_GUI_ITEM_NAME": "§fПриветствие: §6%s §f(§6%s§f)",
   "JOIN_MESSAGE_SELECTED_GUI_ITEM_LORE": [
     " ",
-    " §fПример как будет выглядить при входе:",
-    " %s",
     " §fУ §6Вас §fуже выбран данное приветствие.",
     " "
   ],
