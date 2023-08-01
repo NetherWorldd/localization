@@ -1,5 +1,5 @@
 {
-  "JOIN_MESSAGE_ACCESS_GUI_ITEM_NAME": "§fПриветствие: %s",
+  "JOIN_MESSAGE_ACCESS_GUI_ITEM_NAME": "§fПриветствие: %s %s",
   "JOIN_MESSAGE_SELECTED_GUI_ITEM_NAME": "§fПриветствие: %s",
   "JOIN_MESSAGE_SELECTED_GUI_ITEM_LORE": [
     " ",
