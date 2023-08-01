@@ -1,5 +1,11 @@
 {
   "JOIN_MESSAGE_ACCESS_GUI_ITEM_NAME": "§fПриветствие: %s",
+  "JOIN_MESSAGE_SELECTED_GUI_ITEM_NAME": "§fПриветствие: %s",
+  "JOIN_MESSAGE_SELECTED_GUI_ITEM_LORE": [
+    " ",
+    " §fУ §6Вас §fуже выбран данное приветствие.",
+    " "
+  ],
   "JM_CLEAR_NAME": "§6Очистить текующее приветствие.",
   "JM_CLEAR_LORE": [
     "",
