@@ -6,9 +6,10 @@
   "TITUL_CLEAR": "§fВы успешно очистили титул.",
   "TITUL_DENY_GUI_ITEM_NAME": "Титул: %s",
   "TITUL_DENY_GUI_ITEM_LORE": [
+    " ",
     " §fВам §cне доступен§f данный предмет",
     " §fцена: %s",
-    ""
+    " "
   ],
   "TITUL_CLEAR_LORE": [
     "§f",
