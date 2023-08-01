@@ -1,6 +1,6 @@
 {
   "JOIN_MESSAGE_ACCESS_GUI_ITEM_NAME": "fff",
-  "JOIN_MESSAGE_SELECTED_GUI_ITEM_NAME": "§fПриветствие: %s",
+  "JOIN_MESSAGE_SELECTED_GUI_ITEM_NAME": "§fПриветствие: §6%s §3(§6%s§3)",
   "JOIN_MESSAGE_SELECTED_GUI_ITEM_LORE": [
     " ",
     " §fПример как будет выглядить при входе:",
