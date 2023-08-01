@@ -1,6 +1,7 @@
 {
   "ALREADY_ON_SERVER": "§6Core §8⇒ §fВы §cуже подключены §fк данному серверу",
   "SERVER_QUEUE": "§6Core §8⇒ §fВы были §6перенаправлены §fна сервер §5%s",
+  "CORE_BROADCAST": "§6Core §8⇒ §f",
   "CORE_HELP": [
     "§f",
     "§6/core cmd сервер кмд §f- отправить команду на сервер §c(Только Bukkit)",
