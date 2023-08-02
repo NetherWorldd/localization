@@ -2,7 +2,7 @@
   "TITULS_CATEGORY_GUI_NAME": "§0Выберите нужную вам категорию",
   "TITUL_CLEAR_NAME": "§6Очистить текующий титул",
   "TITULS_GUI_NAME": "§0Категория: %s",
-  "TITUL_SELECT": "§fУ вас и так применен титул.",
+  "TITUL_SELECT": "§fВы выбрали данный титул.",
   "TITUL_CLEAR": "§fВы успешно очистили титул.",
   "TITUL_DENY_GUI_ITEM_NAME": "§fТитул: §a%s",
   "TITUL_NO_COINS": "§6TITLE §8⇒ §fУ вас недостаточно §6коинов §fчтобы приобрести данный титул.",
