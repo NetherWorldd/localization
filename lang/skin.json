@@ -1,0 +1,14 @@
+{
+  "COMMAND_SKIN_FORMAT": [
+    " ",
+    "§6SKIN §8⇒ §fУстановить скин: §6/skin <ник>",
+    "§6SKIN §8⇒ §fСбросить скин: §6/skin reset",
+    " "
+  ],
+  "SKIN_ALREADY_SET": "§6SKIN §8⇒ §fУ вас уже стоит этот скин, напишите §6/skin reset, чтобы сбросить.",
+  "SKIN_NAME_NOT_CORRECTED": "§6SKIN §8⇒ §fВы указали некорректный ник.",
+  "SKIN_HAS_BEEN_RESET": "§6SKIN §8⇒ §fСкин сброшен.",
+  "SKIN_REQUEST_EXCEPTION": "§6SKIN §8⇒ §fПроизошла ошибка, сообщите администрации.",
+  "SKIN_IS_DEFAULT": "§6SKIN §8⇒ §fУ §6Вас §ауже стоит данный скин.",
+  "SKIN_HAS_BEEN_UPDATED": "§6SKIN §8⇒ §fСкин установлен."
+}
