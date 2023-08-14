@@ -1,42 +1,89 @@
 {
-  "TITULS_CATEGORY_GUI_NAME": "§0Выберите нужную вам категорию",
-  "TITUL_CLEAR_NAME": "§6Очистить текующий титул",
-  "TITULS_GUI_NAME": "§0Категория: %s",
-  "TITUL_SELECT": "§fВы выбрали данный титул.",
-  "TITUL_CLEAR": "§fВы успешно очистили титул.",
-  "TITUL_DENY_GUI_ITEM_NAME": "§fТитул: §a%s",
-  "TITUL_NO_COINS": "§6TITLE §8⇒ §fУ вас недостаточно §6коинов §fчтобы приобрести данный титул.",
-  "TITULS_SYMBOL_CATEGORY_ITEM_NAME": "§fКатегория: §a%s",
-  "TITULS_EMOTIONAL_CATEGORY_ITEM_NAME": "§fКатегория: §a%s",
-  "TITULS_VEGETABLE_CATEGORY_ITEM_NAME": "§fКатегория: §a%s",
-  "TITULS_ANIME_CATEGORY_ITEM_NAME": "§fКатегория: §a%s",
-  "TITULS_CARTOON_CATEGORY_ITEM_NAME": "§fКатегория: §a%s",
-  "TITULS_DEATH_CATEGORY_ITEM_NAME": "§fКатегория: §a%s",
-  "TITULS_EAT_CATEGORY_ITEM_NAME": "§fКатегория: §a%s",
-  "TITULS_GAMER_CATEGORY_ITEM_NAME": "§fКатегория: §a%s",
-  "TITULS_HALLOWEEN_CATEGORY_ITEM_NAME": "§fКатегория: §a%s",
-  "TITULS_HYPE_CATEGORY_ITEM_NAME": "§fКатегория: §a%s",
-  "TITULS_MAGIC_CATEGORY_ITEM_NAME": "§fКатегория: §a%s",
-  "TITULS_MARVEL_CATEGORY_ITEM_NAME": "§fКатегория: §a%s",
-  "TITULS_WAR_CATEGORY_ITEM_NAME": "§fКатегория: §a%s",
-  "TITULS_NEW_YEAR_CATEGORY_ITEM_NAME": "§fКатегория: §a%s",
-  "TITULS_SCHOOL_CATEGORY_ITEM_NAME": "§fКатегория: §a%s",
-  "TITULS_SPRING_CATEGORY_ITEM_NAME": "§fКатегория: §a%s",
-  "TITULS_CATEGORY_ITEM_LORE": [
+  "JOIN_MESSAGE_GUI_NAME": "§8Сообщения при входе",
+  "JOIN_MESSAGE_SELECTED_GUI_ITEM_NAME": "§6§lСообщение #%s",
+  "JOIN_MESSAGE_SELECTED_GUI_ITEM_LORE": [
     "",
-    "§fРазблокировано всего: §6%s §fиз §6%s §f(§6%s§f)",
+    " %s",
     "",
-    "§aНажмите, чтобы перейти в категорию."
+    "§fУ вас §aвыбрано §fданное сообщение"
   ],
-  "TITUL_DENY_GUI_ITEM_LORE": [
-    " ",
-    " §fВам §cне доступен§f данный предмет",
-    " §fЦена данного титула: §a35 рублей",
-    " "
+  "JOIN_MESSAGE_ACCESS_GUI_ITEM_NAME": "§6§lСообщение #%s",
+  "JOIN_MESSAGE_ACCESS_GUI_ITEM_LORE": [
+    "",
+    " %s",
+    "",
+    " §7Вам §aдоступно §fданное сообщение",
+    "",
+    "§7Нажмите, чтобы §eустановить §7сообщение"
   ],
+  "JOIN_MESSAGE_DENY_GUI_ITEM_NAME": "§6§lСообщение #%s",
+  "JOIN_MESSAGE_DENY_GUI_ITEM_LORE": [
+    "",
+    " %s",
+    "",
+    " §7Доступно от: ",
+    "",
+    "§7Нажмите, чтобы §eкупить §7сообщение"
+  ],
+  "JOIN_MESSAGE_SELECT_COOLDOWN": "§6TITLE §8⇒ §7Подождите §e%s сек. §7перед повторной сменой сообщения при входе",
+  "JOIN_MESSAGE_SELECT": "§6TITLE §8⇒ §7Вы §aустановили §7сообщение при входе §a#%s",
+  "TITULS_CATEGORY_GUI_NAME": "§8Выбор категории титулов",
+  "TITULS_GUI_NAME": "§8Выбор титула",
+  "TITUL_CLEAR_NAME": "§4§l✗ Очистить",
   "TITUL_CLEAR_LORE": [
-    "§f",
-    "§fНажмите на эту кнопку, чтобы очистить титул.",
+    "",
+    " §7Уберите установленный титул",
+    "",
+    "§7Нажмите, чтобы §eубрать §7титул"
+  ],
+  "TITUL_SELECTED_GUI_ITEM_NAME": "§6§lТитул: §e%s",
+  "TITUL_SELECTED_GUI_ITEM_LORE": [
+    "",
+    " §7Статус: §aвыбран",
     ""
-  ]
+  ],
+  "TITUL_ACCESS_GUI_ITEM_NAME": "§8Титул: %s",
+  "TITUL_ACCESS_GUI_ITEM_LORE": [
+    "",
+    " §7Статус: §aдоступен",
+    "",
+    "§7Нажмите, чтобы §eустановить §fтитул"
+  ],
+  "TITUL_DENY_GUI_ITEM_NAME": "§8Титул: %s",
+  "TITUL_DENY_GUI_ITEM_LORE": [
+    "",
+    " §fСтатус: §cне доступен",
+    " §fСтоимость: §e§l35 ℙ",
+    ""
+  ],
+  "TITULS_SYMBOL_CATEGORY_ITEM_NAME": "§6§lКатегория \"Символы\"",
+  "TITULS_EMOTIONAL_CATEGORY_ITEM_NAME": "§6§lКатегория \"Эмоции\"",
+  "TITULS_VEGETABLE_CATEGORY_ITEM_NAME": "§6§lКатегория \"Овощи\"",
+  "TITULS_SPRING_CATEGORY_ITEM_NAME": "§6§lКатегория \"Весна\"",
+  "TITULS_ANIME_CATEGORY_ITEM_NAME": "§6§lКатегория \"Аниме\"",
+  "TITULS_CARTOON_CATEGORY_ITEM_NAME": "§6§lКатегория \"Мультик\"",
+  "TITULS_DEATH_CATEGORY_ITEM_NAME": "§6§lКатегория \"Смерть\"",
+  "TITULS_EAT_CATEGORY_ITEM_NAME": "§6§lКатегория \"Еда\"",
+  "TITULS_GAMER_CATEGORY_ITEM_NAME": "§6§lКатегория \"Геймер\"",
+  "TITULS_HALLOWEEN_CATEGORY_ITEM_NAME": "§6§lКатегория \"Хеллоуин\"",
+  "TITULS_HYPE_CATEGORY_ITEM_NAME": "§6§lКатегория \"Хайп\"",
+  "TITULS_MAGIC_CATEGORY_ITEM_NAME": "§6§lКатегория \"Магия\"",
+  "TITULS_MARVEL_CATEGORY_ITEM_NAME": "§6§lКатегория \"Марвел\"",
+  "TITULS_WAR_CATEGORY_ITEM_NAME": "§6§lКатегория \"Война\"",
+  "TITULS_NEW_YEAR_CATEGORY_ITEM_NAME": "§6§lКатегория \"Новый Год\"",
+  "TITULS_SCHOOL_CATEGORY_ITEM_NAME": "§6§lКатегория \"Школа\"",
+  "TITULS_CATEGORY_ITEM_LORE": [
+    "§8site.ru (kek)",
+    "",
+    " §7Титулы продаются за валюту §6рубли",
+    " §7Чтобы приобрести титул, нужно §6§l149 ℙ",
+    "",
+    "§7Нажмите, чтобы §6открыть §7меню"
+  ],
+  "TITUL_SELECT_COOLDOWN": "§6TITLE §8⇒ §7Подождите §e%s сек. §7перед повторной сменой титула",
+  "TITUL_NOT_SELECTED": "§6TITLE §8⇒ §7У вас §cне установлен §7титул",
+  "TITUL_CLEAR": "§6TITLE §8⇒ §7Вы §cубрали §7установленный титул",
+  "TITUL_IS_SELECTED": "§6TITLE §8⇒ §7 вас уже §aустановлен §7этот титул",
+  "TITUL_NO_COINS": "§6TITLE §8⇒ §7Стоимость титула §e§l35 ℙ",
+  "TITUL_SELECT": "§6TITLE §8⇒ §7Вы §aустановили §fтитул §e%s"
 }
