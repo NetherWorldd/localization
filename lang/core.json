@@ -118,7 +118,7 @@
     "§f"
   ],
   "MODULE_LIST": "§6Core §8⇒ §fСписок модулей (§6%s§f): %s",
-  "MODULE_LIST": "§6Core §8⇒ §fСписок модулей пуст",
+  "MODULE_LIST_EMPTY": "§6Core §8⇒ §fСписок модулей пуст",
   "CORE_FIND_NO_ARGS": "§6Core §8⇒ §fНайти игрока - §6/find игрок",
   "CORE_FIND_LAST_ONLINE": "§6Core §8⇒ §fИгрок §6%s §fзаходил последний раз §c%s назад",
   "CORE_FIND_SUCCESS": "§6Core §8⇒ §fИгрок §6%s §fнаходится на сервере §5%s",
